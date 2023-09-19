@@ -1,0 +1,59 @@
+.bg-green {
+    background-color: green !important;
+}
+
+.btn-main {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    padding: 10px 20px;
+    font-size: 14px;
+    color: #FFF;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    padding-inline: 30px;
+    height: 50%;
+    font-weight: bold;
+}
+
+.btn-main:hover {
+    /* background-color: #e0e0e0; */
+    filter: brightness(.7);
+}
+
+.btn-main:focus {
+    outline: none;
+}
+
+.text-h1 {
+    color: #FFF;
+    font-size: 50px;
+}
+
+.subtitle {
+    color: #c0c0c0;
+}
+
+.my-20 {
+    margin-block: 20px;
+}
+
+.py-100 {
+    padding-block: 100px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.width-100 {
+    width: 100%;
+}
+
+.bg-darkgray {
+    background-color: #131313;
+}
+
+.bg-gray {
+    background-color: #5e5e5e;
+}
